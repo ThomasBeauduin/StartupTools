@@ -1,0 +1,33 @@
+# visualStudio - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.2.0.556344 (R2017a)
+# Sun May 07 12:42:16 PDT 2017
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-2302756
+ColorsBackground=C-14145496
+Colors_M_Keywords=C-10837786
+Colors_M_Comments=C-12146116
+Colors_M_Strings=C-4299576
+Colors_M_UnterminatedStrings=C-3669986
+Colors_M_SystemCommands=C-2318201
+Colors_M_Errors=C-393186
+Colors_HTML_HTMLLinks=C-11495716
+Colors_M_Warnings=C-2196224
+ColorsMLintAutoFixBackground=C-7580416
+Editor.VariableHighlighting.Color=C-11513776
+Editor.NonlocalVariableHighlighting.TextColor=C-12793686
+Editorhighlight-lines=C-13816531
+Editorhighlight-caret-row-boolean-color=C-2167080
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-9216
+Color_CmdWinErrors=C-393166
