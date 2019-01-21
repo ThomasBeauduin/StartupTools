@@ -1,0 +1,4 @@
+remove this git
+
+move the visual studio scheme to gist
+move the markdown preferences to gist
